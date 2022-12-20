@@ -31,8 +31,5 @@ for line in output:
         if path != "/":
             files["/"] += int(args[0])
 
-print(files)
 required = 30000000 - (70000000 - files["/"])
-print(required)
 print(min([v for v in files.values() if v - required > 0]))
-print([v for v in files.values() if v - required > 0])

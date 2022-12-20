@@ -1010,4 +1010,4 @@ $ ls
 $ cd ..
 $ cd vsztsjfh
 $ ls
-15479 ffwlcrwb
+215479 ffwlcrwb
